@@ -67,12 +67,12 @@
           "child": [
             {
               "title": "采购订单",
-              "href": "page/procurement/Purchase-Order.html",
+              "href": "page/procurement/Purchase Order.html",
               "icon": "fa fa-plus-circle",
               "target": "_self"
             }, {
               "title": "入库管理",
-              "href": "page/procurement/Inventory-Management.html",
+              "href": "page/procurement/Inventory Management.html",
               "icon": "fa fa-search-plus",
               "target": "_self"
             }
@@ -150,3 +150,4 @@
     }
   ]
 }
+
